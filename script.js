@@ -12,7 +12,6 @@ for (var bar of progressBars) {
 }
 
 
-
 function fillBar(bar) {
 
     var currentWidth = 0;
